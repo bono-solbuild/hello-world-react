@@ -1,0 +1,14 @@
+node_modules
+*.log
+dist
+.tmp
+.sass-cache
+bower_components
+.idea
+.DS_Store
+*~
+coverage
+public
+static
+typings
+tests
